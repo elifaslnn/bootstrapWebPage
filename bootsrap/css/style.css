@@ -1,0 +1,85 @@
+.resimslider
+{
+  height: 600px;
+
+}
+.container-fluid{
+  padding-left: 50px;
+  font-family: 'Source Code Pro', monospace !important;
+}
+
+
+.img-fluid{
+  width: 100%;
+  
+}
+.giris{
+  text-align: center;
+  /* margin-top: 5px;  */
+  width: 100%;
+}
+
+.containerTop{
+  margin-top: 125px;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.container1{
+  /*margin-top: 45px;*/
+  background-color:rgb(233, 230, 230);
+  width: 100% !important;
+}
+.row{
+  text-align: center;
+  margin-top: 25px;
+}
+.col{
+  margin-left: 4px;
+  margin-top:5px;
+  margin-bottom: 40px;
+  font-family: 'Source Code Pro', monospace;
+
+  
+}
+.button{
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  margin-top:25px;
+  border:rgb(190, 119, 119);
+  margin-bottom: 10px;
+
+}
+.col{
+  /* border:solid 1px black; */
+}
+.btn-primary{
+  margin-top: 30px;
+}
+.link1{
+  color: white;
+  font-family:'Source Code Pro', monospace;
+}
+
+.text{
+  margin-top: 25px;;
+}
+
+.hakkimizda{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  background-color:rgb(233, 230, 230);
+}
+.ayrac{
+  border: none;
+  border-top: 3px solid rgb(0, 0, 0);
+}
+
+.icon{
+  font-size:50px;
+}
+
+.head2{
+  font-size: large;
+}
